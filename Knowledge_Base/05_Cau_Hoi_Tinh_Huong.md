@@ -134,7 +134,7 @@
 
 ### ❓ Tình huống 10: Bạn phát hiện cùng 1 bug xuất hiện lặp lại nhiều lần dù đã fix. Bạn xử lý thế nào?
 
-**✅ Trả lời (Senior-level):**
+**✅ Trả lời:**
 > 1. **Log lại** mỗi lần xuất hiện, link đến bug gốc
 > 2. **Báo cáo Test Lead và Dev Lead** - đây là systematic issue
 > 3. **Yêu cầu Root Cause Analysis (RCA)**: Tại sao bug cứ quay lại?
