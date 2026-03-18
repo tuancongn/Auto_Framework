@@ -16,7 +16,7 @@ https://github.com/tuancongn/Auto_Framework/raw/main/Proof.mp4
 Auto_Framework/
 ├── core/                  # Chứa logic code giải các bài toán (Unit Test targets)
 ├── data/                  # Chứa data mẫu định dạng JSON phục vụ cho Data-Driven Testing
-├── docs/                  # Tài liệu giải thích Framework và chiến lược Test cho NTD
+├── docs/                  # Tài liệu giải thích Framework và chiến lược Test
 ├── pages/                 # Triển khai mô hình Page Object Model (POM) cho UI
 ├── reports/               # Nơi chứa kết quả chạy Auto (HTML & Allure Report)
 ├── tests/                 # Nơi chứa toàn bộ kịch bản E2E tự động
@@ -74,6 +74,16 @@ allure serve reports/allure-results
 ## 📚 Tài liệu tham khảo (Documentation)
 Để hiểu rõ hơn về lý do tại sao các Test Cases lại được thiết kế như vậy, hoặc giải đáp các thắc mắc về cơ chế tự động mở trình duyệt, thao tác gõ phím, cũng như các kỹ thuật BVA/EP được áp dụng:
 👉 **[Xem chi tiết tại: Giải thích kết quả Test & FAQ](Auto_Framework/docs/08_Giai_Thich_Ket_Qua_Test.md)**
+
+## 🧠 Kiến thức nền tảng (Knowledge Base)
+Là một Automation Test Engineer, tôi hiểu rằng việc nắm chắc Code chỉ là phần ngọn, phần gốc rễ chính là tư duy Testing bài bản. Vì vậy, tôi đã hệ thống hóa chuyên sâu toàn bộ lý thuyết nền tảng vào thư mục **`Knowledge_Base/`**.
+Kính mời Nhà tuyển dụng tham khảo góc nhìn và tư duy của tôi thông qua các tài liệu sau:
+- `01_SDLC_Software_Development_Life_Cycle.md`: Nắm vững quy trình làm phần mềm.
+- `02_Agile_Scrum_Methodology.md`: Hiểu cách vận hành dự án thực tế.
+- `03_Testing_Fundamentals...md`: Phân tích sâu về Black-box (EP, BVA) và Non-functional.
+- `04_Test_Debug_Life_Cycle.md`: Phân biệt RTM, STLC, Bug Life cycle.
+- `05_Cau_Hoi_Tinh_Huong.md`: Cách tôi ứng xử chuyên nghiệp trong các tình huống (Communication & Teamwork).
+- `06_Tu_Luan_Code_Basic.md`: Nền tảng tư duy lập trình vững chắc để tự động hóa.
 
 ---
 > *"Quality is not an act, it is a habit."* - Aristotle  
