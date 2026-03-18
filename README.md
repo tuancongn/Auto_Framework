@@ -69,7 +69,7 @@ allure serve reports/allure-results
 ```
 ## 📚 Tài liệu tham khảo (Documentation)
 Để hiểu rõ hơn về lý do tại sao các Test Cases lại được thiết kế như vậy, hoặc giải đáp các thắc mắc về cơ chế tự động mở trình duyệt, thao tác gõ phím, cũng như các kỹ thuật BVA/EP được áp dụng:
-👉 **[Xem chi tiết tại: Giải thích kết quả Test & FAQ](docs/08_Giai_Thich_Ket_Qua_Test.md)**
+👉 **[Xem chi tiết tại: Giải thích kết quả Test & FAQ](Auto_Framework/docs/08_Giai_Thich_Ket_Qua_Test.md)**
 
 ---
 > *"Quality is not an act, it is a habit."* - Aristotle  
