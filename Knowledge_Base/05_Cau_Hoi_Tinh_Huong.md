@@ -220,7 +220,7 @@
 
 ### ❓ Tình huống 15: Bạn test 1 chức năng, pass tất cả test cases, nhưng khi demo cho khách hàng thì fail. Tại sao?
 
-**✅ Trả lời (Senior-level):**
+**✅ Trả lời:**
 > **Possible reasons:**
 > 1. **Environment difference**: Test env ≠ Demo env (config, data, permissions)
 > 2. **Test data difference**: Data trong test env khác production-like data
