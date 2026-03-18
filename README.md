@@ -7,6 +7,10 @@
 ## 🎯 Giới thiệu Dự án
 Dự án này được thiết kế để chứng minh kỹ năng Automation Testing thực chiến. Nó không chỉ giải quyết bài test logic cơ bản mà còn đóng gói toàn bộ vào một **Khung Kiểm thử Tự động đa tầng (Multi-layer Auto Framework)** chuyên nghiệp.
 
+### 🎥 Demo Thực tế (Proof of Execution)
+*Dưới đây là video quay lại toàn bộ quá trình tự động hóa các kịch bản kiểm thử trực tiếp trên trình duyệt:*
+https://github.com/tuancongn/Auto_Framework/raw/main/Proof.mp4
+
 ## 📂 Cấu trúc Thư mục (Project Structure)
 ```text
 Auto_Framework/
