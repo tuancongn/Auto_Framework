@@ -235,7 +235,7 @@ And: Results are sorted by relevance
 > - Then: I receive a password reset link within 5 minutes
 
 ### ❓ Q8: Definition of Done (DoD) là gì?
-**✅ Trả lời (Senior-level):**
+**✅ Trả lời:**
 > DoD là **checklist tiêu chí** mà một work item phải đáp ứng để được coi là "hoàn thành". DoD được team thống nhất và áp dụng consistently. Ví dụ:
 > - Code đã được review
 > - Unit tests pass 100%
