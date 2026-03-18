@@ -167,7 +167,7 @@
 
 ### ❓ Tình huống 12: Bạn được nhờ test một trang web nhưng KHÔNG có tài liệu requirement. Bạn làm gì?
 
-**✅ Trả lời (Senior-level):**
+**✅ Trả lời:**
 > 1. **Exploratory Testing**: Test dựa trên kinh nghiệm và domain knowledge
 > 2. **Tham khảo similar products**: So sánh với industry standard
 > 3. **Checklist-based Testing**: Dùng generic testing checklists
