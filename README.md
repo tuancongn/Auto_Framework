@@ -23,7 +23,9 @@ Auto_Framework/
 │   ├── api_tests/         # Kịch bản kiểm thử API (Requests)
 │   ├── ui_tests/          # Kịch bản kiểm thử Giao diện (Selenium)
 │   └── unit_tests/        # Kịch bản kiểm thử Logic với BVA & EP (Pytest)
+├── utils/                 # Các hàm tiện ích dùng chung (API Client, Đọc JSON...)
 ├── .github/workflows/     # Cấu hình tự động chạy CI/CD (Github Actions)
+├── .gitignore             # File cấu hình bỏ qua thư mục rác (venv, cache) khi commit
 ├── conftest.py            # Cấu hình Fixtures dùng chung cho toàn bộ Pytest
 ├── pytest.ini             # Cấu hình config cho Pytest
 ├── requirements.txt       # Danh sách thư viện Python cần thiết
